@@ -1,35 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< 4894f6a71b8b6d5bf09f9b8d48ea047c31bf2b03
-<<<<<<< 11797261b72a5d776a618030ba4032a3cc21a80c
-<<<<<<< fe502ea7f55560a2f3fd343a7e73053a2d1f08cf
-<<<<<<< 739e393bf5703e57a5a3a5c46a2b008deb90788d
-b4分支首次提交——————IUIUIUI————00000b4分支首次提交——————————0000009090——
-=======
-1在b2分支上首次提交
->>>>>>> b2 first ci
-=======
-1在b2分支上首次提交b4分支首次提交
->>>>>>> Update test1.txt
-=======
-1在b2分支上首次提交b4分支首次提交b4分支首次提交——————
->>>>>>> 提交1
-=======
-=======
->>>>>>> 2ab5cfb0db051b5dd4f6eaca525447e8cf662e7b
-<<<<<<< c8bae6124d7e9c38082bc6c69bc982613bba7a16
-1在b2分支上首次提交b4分支首次提交b4分支首次提交——————
-=======
-b4分支首次提交
-——————
-0000000000000
->>>>>>> dd
-<<<<<<< HEAD
->>>>>>> dd
-=======hahahahahahhahahahah
->>>>>>> 2ab5cfb0db051b5dd4f6eaca525447e8cf662e7b
-<<<<<<< 2cc1cbc7dbe189f7c1c4ace858d03bea8b12376d
-=======
-
-hahahahahahhahah
-kkkkkkkkkkkkkkkk
->>>>>>> hahah
+<<<<<<< HEAD<<<<<<< 4894f6a71b8b6d5bf09f9b8d48ea047c31bf2b03<<<<<<< 11797261b72a5d776a618030ba4032a3cc21a80c<<<<<<< fe502ea7f55560a2f3fd343a7e73053a2d1f08cf<<<<<<< 739e393bf5703e57a5a3a5c46a2b008deb90788db4分支首次提交——————IUIUIUI————00000b4分支首次提交——————————0000009090——=======1在b2分支上首次提交>>>>>>> b2 first ci=======1在b2分支上首次提交b4分支首次提交>>>>>>> Update test1.txt=======1在b2分支上首次提交b4分支首次提交b4分支首次提交——————>>>>>>> 提交1==============>>>>>>> 2ab5cfb0db051b5dd4f6eaca525447e8cf662e7b<<<<<<< c8bae6124d7e9c38082bc6c69bc982613bba7a161在b2分支上首次提交b4分支首次提交b4分支首次提交——————=======b4分支首次提交——————0000000000000>>>>>>> <<<<<<< HEAD>>>>>>> dd=======hahahahahahhahahahah>>>>>>> 2ab5cfb0db051b5dd4f6eaca525447e8cf662e7b<<<<<<< 2cc1cbc7dbe189f7c1c4ace858d03bea8b12376d=======hahahahahahhahahkkkkkkkkkkkkkkkk>>>>>>> hahah
