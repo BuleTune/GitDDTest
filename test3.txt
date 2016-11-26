@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 hhhhhhhhhhhhhhhh
 0000000000000000
 iiiiiiiiiiiiiiii
+=======
+>>>>>>> parent of ed453c8... ioioioio
